@@ -90,6 +90,10 @@ ul {
   list-style-type: disc;
 }
 
+.nonactive {
+  display: none;
+}
+
 .form {
   margin: 1rem;
 }
